@@ -1,0 +1,42 @@
+
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Minha Agenda</title>
+    <link rel="stylesheet" href="estilos.css">
+</head>
+<body>
+
+    <h1>Minha Agenda Semanal</h1>
+
+    <table id="agenda">
+        <thead>
+            <tr>
+                <th>Dia</th>
+                <th>Atividade</th>
+                <th>Horário</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Segunda-feira</td>
+                <td>Aula AWS</td>
+                <td>19:00 - 21:30</td>
+            </tr>
+            <tr>
+                <td>Terça-feira</td>
+                <td>Reunião de estágio</td>
+                <td>14:00 - 16:00</td>
+            </tr>
+            <tr>
+                <td>Sexta-feira</td>
+                <td>Orientação de TCC</td>
+                <td>18:00 - 22:00</td>
+            </tr>
+        </tbody>
+    </table>
+
+</body>
+</html>
