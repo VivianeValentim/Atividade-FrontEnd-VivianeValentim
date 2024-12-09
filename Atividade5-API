@@ -36,6 +36,3 @@ app.post('/products', (req, res) => {
 app.listen(port, () => {
     console.log(`API is running on http://localhost:${port}`);
 });
-
-
-<img src="C:\Users\vivia\OneDrive\Imagens\Capturas de tela\Captura de tela 2024-12-08 222206.png"
